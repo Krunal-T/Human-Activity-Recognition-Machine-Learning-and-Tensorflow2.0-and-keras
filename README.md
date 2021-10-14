@@ -16,6 +16,8 @@ This dataset is collected from 30 persons(referred as subjects in this dataset),
  <br>
  -sklearn 
  <br>
+ -xgboost
+ <br>
  
  
 # Library required for Deep Learning mapped solution
