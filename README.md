@@ -37,6 +37,8 @@ link - https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+
 <br>
 
 # Algorithm used in ML
+-KNN<br>
+-Naive Bayes<br>
 -Logistic Regression<br>
 -Linear Support Vector Classifier<br>
 -Kernal Support Vector Classifier<br>
