@@ -1,6 +1,6 @@
 # Human Activity Recognition Machine Learning and Tensorflow2.0 and Keras
 <br>
-This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
+Human Activity Recognition database is built from the recordings of 30 subjects(person) performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
 <br>
 Here, the purpose is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 As this is multi-class classification problem. And so have implemented multi-class classification problem using both statistical and deep learning methods.
